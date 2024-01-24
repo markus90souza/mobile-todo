@@ -22,5 +22,6 @@ UnistylesRegistry
    default: defaultTheme
   })
   .addConfig({
+    initialTheme: 'default',
     adaptiveThemes: true
   })
